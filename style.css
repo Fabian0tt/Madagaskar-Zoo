@@ -44,7 +44,7 @@ nav {
 }
 #navigator{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     border: solid, color(dark);
 }
 a{
@@ -63,6 +63,8 @@ h3{
     border-color: rgba(0, 0, 0, 0.49);
     border-width: 5px;
     background-color: rgba(83, 68, 246, 0.614);
+    display: flex;
+    justify-content: space-evenly;
 }
 #oeffnungszeiten{
     display: flex;
@@ -83,4 +85,34 @@ h3{
 #maps{
     display: flex;
     justify-content: center;
+}
+#uebertitel{
+    display: flex;
+    justify-content: space-evenly;
+}
+#oeffnungundpreise{
+    display: flex;
+    justify-content: space-evenly;
+}
+#shoppreise{
+    font-style: italic;
+    font-size: xx-large;
+    
+}
+#rand{
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.49);
+    border-width: 5px;
+}
+#ganzeshop{
+    display: flex;
+    justify-content: space-around;
+}
+#artikel{
+    display: flex;
+    align-content: normal;
 }
