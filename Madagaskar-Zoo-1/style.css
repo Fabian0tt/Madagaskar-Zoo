@@ -186,11 +186,4 @@ h3{
     display:flex;
     justify-content: space-evenly;
 }
-#einzelnerartikel{
-    display:flex ;
-    align-items: center;
-}
-#zweiartikel{
-    display:flex ;
-    align-items: center;
-}
+
