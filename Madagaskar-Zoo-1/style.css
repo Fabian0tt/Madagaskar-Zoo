@@ -64,6 +64,26 @@ h3{
     border-width: 5px;
     background-color: rgba(83, 68, 246, 0.614);
 }
+#texthintergrund2{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.49);
+    border-width: 5px;
+    background-color: rgba(83, 68, 246, 0.614);
+}
+#texthintergrund3{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 0.49);
+    border-width: 5px;
+    background-color: rgba(83, 68, 246, 0.614);
+}
 #oeffnungszeiten{
     display: flex;
     justify-content: center;
